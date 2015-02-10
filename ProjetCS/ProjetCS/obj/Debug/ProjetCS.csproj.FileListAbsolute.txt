@@ -1,0 +1,10 @@
+c:\users\arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\bin\Debug\ProjetCS.exe.config
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\bin\Debug\ProjetCS.exe
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\bin\Debug\ProjetCS.pdb
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\obj\Debug\ProjetCS.csprojResolveAssemblyReference.cache
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\obj\Debug\ProjetCS.addAlbum.resources
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\obj\Debug\ProjetCS.Form1.resources
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\obj\Debug\ProjetCS.Properties.Resources.resources
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\obj\Debug\ProjetCS.csproj.GenerateResource.Cache
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\obj\Debug\ProjetCS.exe
+C:\Users\Arthur\documents\visual studio 2013\Projects\ProjetCS\ProjetCS\obj\Debug\ProjetCS.pdb
